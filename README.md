@@ -1,12 +1,11 @@
-# Image Tiles Scroll Animation
+# Locomotive Sroll JS + Blotter JS Animations
+
+Website: [heftiba.co.uk](http://heftiba.co.uk).
 
 Scroll animations for image grids using [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/).
 
-![Tile Scroll](https://tympanus.net/codrops/wp-content/uploads/2020/10/ScrollAnimationLocomotive.jpg)
 
-[Article on Codrops](https://tympanus.net/codrops/?p=51396)
-
-[Demo](http://tympanus.net/Development/TileScroll/)
+Blotter JS animations for text [Blotter JS](https://github.com/bradley/blotter).
 
 ## Installation
 
@@ -28,10 +27,6 @@ Create the build:
 npm run build
 ```
 
-## Credits
-
-- [Locomotive Scroll](https://locomotivemtl.github.io/locomotive-scroll/)
-- [Blotter](https://blotter.js.org/)
 
 ## License
 
