@@ -31,3 +31,6 @@ npm run build
 ## License
 
 [MIT](LICENSE)
+
+
+Made with :fire: by [@benisinca](https://github.com/bensinca/)
