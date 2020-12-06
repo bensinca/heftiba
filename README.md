@@ -1,4 +1,4 @@
-# Locomotive Sroll JS + Blotter JS Animations
+# Locomotive Scroll JS + Blotter JS Animations
 
 Website: [heftiba.co.uk](http://heftiba.co.uk).
 
